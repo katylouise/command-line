@@ -1,0 +1,2 @@
+This command counts the words, lines, bytes or characters of the given input.  To count each thing, you would use the 
+following flags: -w, -l, -c, -m.
